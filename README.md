@@ -143,7 +143,7 @@
        width="18" height="18">nongman.kim(인스타)을 팔로우 하고 여행기를 공유해 주세요~<br>&nbsp;&nbsp;&nbsp;&nbsp;피드백은 스타트업을 무럭무럭 자라게 합니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>#낭만농객 #김농만 #소셜벤처 #스타트업 #농촌관광 </b><br>&nbsp;&nbsp;&nbsp;&nbsp; </p>        
 
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
-       width="18" height="18">낭만농객의 마지막 시범운영 함께 해주셔서 감사합니다 :)<br>&nbsp;&nbsp;&nbsp;&nbsp; 더 좋은 서비스로 곧 나타나겠습니다! <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>#낭만농객 #김농만 #소셜벤처 #스타트업 #농촌관광 </b><br>&nbsp;&nbsp;&nbsp;&nbsp; </p>   
+       width="18" height="18">낭만농객의 마지막 시범운영 함께 해주셔서 감사합니다 :)<br>&nbsp;&nbsp;&nbsp;&nbsp; 더 좋은 서비스로 곧 나타나겠습니다! <br>&nbsp;&nbsp;&nbsp;&nbsp; </p>   
 
 <br>
 <br>
