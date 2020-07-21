@@ -3,10 +3,11 @@
 <br>
 
 ## 👩‍🌾 어떤 농장에서 일하나요? 
-- <b>진도군</b> 곽그루 농부님의 [진도농부](https://smartstore.naver.com/jindomiss) 
+- <b>전라남도 진도군</b> 곽그루 농부님의 [진도농부](https://smartstore.naver.com/jindomiss) 
 - 🌶 🧅 🥔 농사를 짓는 농가입니다.
 - 4가족이 농사짓는 가족농이에요. 👨‍👩‍👦‍👦
-
+- [인간극장](http://mylovekbs.kbs.co.kr/index.html?source=mylovekbs&sname=mylovekbs&stype=magazine&contents_id=70000000287406)에도 나왔어요 :) 
+- ([유튜브](https://www.youtube.com/channel/UCrdArwdOLdNiIVE4lnMZunA)도 있어요 >_<)
 <br>
 
 ## 👩‍🌾 이틀 동안 잠은 어디서 자나요? 
