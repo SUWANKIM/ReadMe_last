@@ -27,15 +27,15 @@
 
 - 대부분 농장일은 오피스 업무와 달리 딱 정해진 시간에 끝내는 게 많이 힘들어요.. 다음 날 차질이 생기기 때문이죠..
 - 여름 농사의 최대 적은 더위.. 그래서 해 뜨기 전 새벽 6시에 시작합니다!
-- 일찍 시작한 만큼 일찍 끝나겠죠~? (나머진 자유시간🧘)
+- 일찍 시작한 만큼 일찍 끝나겠죠..? (나머진 자유시간🧘)
 
 <br>
 
-## Q. 복숭아 밭에서 어떤 일을 하게 되나요?
+## 👩‍🌾 고추 밭에서 어떤 일을 하게 되나요?
  
-- 복숭아 밭의 토요일 업무는 <b>복숭아 포장</b> 작업 입니다.<br> 
-- 복숭아는 무른 과실이라 작물을 쎄게 잡거나 찌르면 상품 가치가 없어집니다.
-- 농가의 복숭아들은 모두 농부님의 자산입니다. 복숭아를 드시려면 꼭! 농부님께 여쭤본 후 드세요.
+- 우리는 <b>고추따기</b>, <b>세척 및 건조</b>, <b>풀메기</b>를 합니다. 
+- 고추는 무른 작물이라 작물을 쎄게 잡거나 찌르면 상품 가치가 없어집니다.
+- 농가의 작물들은 모두 농부님의 자산입니다. 고추를 드시려면 꼭! 농부님께 여쭤본 후 드세요.
 - 몰래 먹다 걸리면 강제 마스크를 쓰게 될 수 있습니다.😷 
 - 항상 안전에 유의하시고 복숭아 품질에 손상이 가지 않도록 신경 써주세요.
 
@@ -142,6 +142,9 @@
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
        width="18" height="18">nongman.kim(인스타)을 팔로우 하고 여행기를 공유해 주세요~<br>&nbsp;&nbsp;&nbsp;&nbsp;피드백은 스타트업을 무럭무럭 자라게 합니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>#낭만농객 #김농만 #소셜벤처 #스타트업 #농촌관광 </b><br>&nbsp;&nbsp;&nbsp;&nbsp; </p>        
 
+<p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
+       width="18" height="18">낭만농객의 마지막 시범운영 함께 해주셔서 감사합니다 :)<br>&nbsp;&nbsp;&nbsp;&nbsp; 더 좋은 서비스로 곧 나타나겠습니다! <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>#낭만농객 #김농만 #소셜벤처 #스타트업 #농촌관광 </b><br>&nbsp;&nbsp;&nbsp;&nbsp; </p>   
+
 <br>
 <br>
 
@@ -150,6 +153,8 @@
 <img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe_season4/master/p3.png">
 
 <br><br>
+
+## Q. 코로나 
 
 
 ## 낭만농객의 파트너들
