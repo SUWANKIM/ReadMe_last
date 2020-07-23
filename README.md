@@ -131,14 +131,6 @@
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe_season4/master/p1.png">
-<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe_season4/master/p2.png">
-<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe_season4/master/p3.png">
-
-<br><br>
-
-## Q. 코로나 
-
 
 ## 낭만농객의 파트너들
 
