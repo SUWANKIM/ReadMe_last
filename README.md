@@ -121,7 +121,6 @@
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
         width="18" height="18">코로나19 예방을 위해 수시로 열체크를 진행할 예정입니다.<br>&nbsp;&nbsp;&nbsp;&nbsp; 발열, 기침 등 코로나 의심 증상 발생시 담당자에게 꼭 알려주세요. <br>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
-
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
        width="18" height="18">nongman.kim(인스타)을 팔로우 하고 여행기를 공유해 주세요~<br>&nbsp;&nbsp;&nbsp;&nbsp;피드백은 스타트업을 무럭무럭 자라게 합니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>#낭만농객 #김농만 #소셜벤처 #스타트업 #농촌관광 </b><br>&nbsp;&nbsp;&nbsp;&nbsp; </p>        
 
