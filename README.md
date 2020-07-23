@@ -74,24 +74,21 @@
 <br>
 
 ## 👩‍🌾 진도까지 이동은 어떻게 하나요?
-- 남원고속버스터미널에서 21:20에 농장주 픽업 제공 됩니다.
+- 고터에서 진도로 바로가는 버스와, ktx, 무궁화 호 등 교통편이 있습니다.
+- 참가 인원이 확정된 후 정확한 교통편 안내 드리겠습니다.
 - 기차와 버스표는 꼭! 최소 3일 전 예매해 주세요.
-- 
+
 <br>
 
-## Q. 돌아가는 날(14일) 픽업은 몇 시인가요?
-
-- 남원고속버스터미널로 가는 단체 차량은 12:00시에 제공됩니다.
-- 남원고속버스터미널에서 센트럴터미널로 가는 버스는 약 1시간 간격으로 운행됩니다 :)
-- 센트럴터미널로 가는 막차는 22:20입니다.
+## 👩‍🌾 돌아가는 날(2일) 몇 시에 일정이 끝나나요?
+- 곽그루 농부님 댁에서 점심 식사 후 1시쯤 진도 터미널로 이동할 예정입니다.
 - 자차 이용하시는 분들은 편한 시간에 이동하시면 됩니다.
 
 <br>
 
-## Q. 주변에 관광지나 대중교통은 활발한가요?
-
-- 임실군은 <b>임실치즈마을</b>, <b>옥정호</b>, <b>팔봉문화촌</b> 등 문화/역사 관광지가 많은 지역입니다.✨
-- 대부분의 관광지는 임실 시내에서 대중교통으로 1시간 내로 방문 가능합니다. 
+## 👩‍🌾 주변에 관광지는 많나요?
+- 진도군은 관광지보다 많은 별이 많은 지역입니다.✨
+- 밤에는 곽그루 농부님과 밤 산책을 하며 솔비치의 야경과 작은 동산에서 별을 보려고 해요.. (원하는 분만)
 
 <br>
 
@@ -119,22 +116,17 @@
         width="18" height="18">도시와 농촌의 <b>언어</b>는 서로 다릅니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;언어와 가치관의 다름을 이해하려면 서로간의 <b>존중</b>이 병행 되어야 합니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;낭만농객과 함께 도시-농촌 간 소통의 첫 걸음을 걸어주세요.</p>
 
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
-        width="18" height="18">여행중 음주는 가급적 노동이 끝난 후 해주세요. <br>&nbsp;&nbsp;&nbsp;&nbsp; 일하기 전날(12일) 무리한 음주는 다음날 노동에 영향을 줄 수 있습니다. <br>&nbsp;&nbsp;&nbsp;&nbsp; (노동 끝난 후 만취 가능) </p>
-        
-        
-<p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
-        width="18" height="18">낭만농객 레퍼런스를 위해 영상 촬영을 할 예정입니다.<br>&nbsp;&nbsp;&nbsp;&nbsp; 카메라에 놀라지 마시고 예쁘게 웃어주세요:) <br>&nbsp;&nbsp;&nbsp;&nbsp;여행이 끝난 후 좋은 영상 만들어서 보내드리겠습니다.</p>
-      
+        width="18" height="18">여행중 음주는 가급적 노동이 끝난 후 해주세요. <br>&nbsp;&nbsp;&nbsp;&nbsp; 일하기 전날(31일) 무리한 음주는 다음날 노동에 영향을 줄 수 있습니다. <br>&nbsp;&nbsp;&nbsp;&nbsp; (노동 끝난 후 만취 가능) </p>
         
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
-        width="18" height="18">코로나19 예방을 위해 수시로 열체크를 진행할 예정입니다.<br>&nbsp;&nbsp;&nbsp;&nbsp; 노동 현장에선 항상 마스크를 착용 하셔야 합니다. <br>&nbsp;&nbsp;&nbsp;&nbsp; 발열, 기침 등 코로나 의심 증상 발생시 담당자에게 꼭 알려주세요. <br>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+        width="18" height="18">코로나19 예방을 위해 수시로 열체크를 진행할 예정입니다.<br>&nbsp;&nbsp;&nbsp;&nbsp; 발열, 기침 등 코로나 의심 증상 발생시 담당자에게 꼭 알려주세요. <br>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
 
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
        width="18" height="18">nongman.kim(인스타)을 팔로우 하고 여행기를 공유해 주세요~<br>&nbsp;&nbsp;&nbsp;&nbsp;피드백은 스타트업을 무럭무럭 자라게 합니다.<br>&nbsp;&nbsp;&nbsp;&nbsp;<b>#낭만농객 #김농만 #소셜벤처 #스타트업 #농촌관광 </b><br>&nbsp;&nbsp;&nbsp;&nbsp; </p>        
 
 <p><img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe/master/pin.jpg" alt="라라라" 
-       width="18" height="18">낭만농객의 마지막 시범운영 함께 해주셔서 감사합니다 :)<br>&nbsp;&nbsp;&nbsp;&nbsp; 더 좋은 서비스로 곧 나타나겠습니다! <br>&nbsp;&nbsp;&nbsp;&nbsp; </p>   
+       width="18" height="18">낭만농객의 마지막 시범운영 함께 해주셔서 감사합니다 :)<br>&nbsp;&nbsp;&nbsp;&nbsp; 이번 여행을 끝으로 우리가 오랫동안 고민했던 로컬트립을 보여드리겠습니다:)  <br>&nbsp;&nbsp;&nbsp;&nbsp; </p>   
 
 <br>
 <br>
