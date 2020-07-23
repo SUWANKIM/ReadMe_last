@@ -23,7 +23,7 @@
 <br>
 
 ## 👩‍🌾 2박 3일 여행 일정을 알려주세요!
-<img src="https://raw.githubusercontent.com/SUWANKIM/ReadMe_last/master/program.png">
+<img src="hhttps://raw.githubusercontent.com/SUWANKIM/ReadMe_last/master/programmmm.png">
 
 - 대부분 농장일은 오피스 업무와 달리 딱 정해진 시간에 끝내는 게 많이 힘들어요.. 다음 날 차질이 생기기 때문이죠..
 - 여름 농사의 최대 적은 더위.. 그래서 해 뜨기 전 새벽 6시에 시작합니다!
